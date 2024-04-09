@@ -1,0 +1,147 @@
+
+
+.h1{
+    background-color: rgb(237, 20, 158);
+}
+.hed_1{
+    height: 1cm;
+    display: grid;
+    background-image: linear-gradient(to right, rgb(212, 155, 51)  ,rgb(236, 156, 170) );
+}
+
+.text_1{
+    
+    margin-left: 500px;
+    /*margin-top: 20px; */
+    height: 0px;
+    color: rgb(11, 7, 7);
+
+    
+}
+.button {
+    margin-left: 1423px;
+    height: 0px;
+    width:0px;
+    margin-top: 16px;
+
+}
+.textmin{
+   justify-content:flex-start; 
+   justify-self:center  ;
+   margin-right: -300px;
+    color: rgb(6, 5, 5);
+   width: 0px;
+   
+   
+}
+
+.hed_2{
+    
+    height: 2cm;
+
+    display: grid;
+    background-color: rgb(240, 243, 243);
+}
+.hed h1 {
+    height: 0px;
+    margin-left: 300px;
+}
+.hed_2  .navmain{
+    display: flex;
+    gap: 2cm;
+    justify-content: end;
+    height: -6px;
+    
+    
+}
+.had3{
+    text-align:start;
+    margin-left: 300px;
+    
+  
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  z-index: 2;
+  width: 80%;
+  font-size: 20px;
+  
+}
+
+.hed_3{
+    height: 15cm;
+    display: grid;
+    background-color: rgb(167, 110, 25);
+    
+    
+
+}
+.had3 button{
+    border-radius: 20px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(to right, rgb(212, 155, 51)  ,rgb(236, 156, 170) );
+
+}
+
+
+.hed_4{
+    height: 3cm;
+    display: grid;
+    background-image: linear-gradient(to right, rgb(212, 155, 51)  ,rgb(236, 156, 170) );
+    font-size: 20px;
+    display: flex;
+    gap: 5cm;
+    justify-content: center;
+}
+
+.bussi1{
+    display: flex;
+    margin-top: 40px;
+}
+
+.bussi2{
+    display: flex;
+    margin-top: 40px;
+}
+
+.bussi3{
+    display: flex;
+    margin-top: 40px;
+}
+
+.hed_5{
+    background-image: url("imgggggg.png");
+    height: 12cm;
+    display: grid;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-color: rgb(248, 247, 246);
+}
+.hh3{
+    margin-left: 300px;
+    height: 0px;
+
+}
+.hh4{
+        margin-bottom: 50px;
+        margin-left: 300px;
+        font-size: 18px;
+        
+}
+.hh5{
+    margin-left: 300px;
+    margin-bottom: 45px;
+}
+.hh6{
+    margin-left: 300px;
+}
+
+.hed_5 button{
+    border-radius: 30px;
+    background-image: linear-gradient(to right, rgb(212, 155, 51)  ,rgb(236, 156, 170) );
+}
+
+
